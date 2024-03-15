@@ -4,16 +4,16 @@
 
 https://sirekap-obj-formc.kpu.go.id/f3bd/pemilu/ppwp/72/08/09/20/02/7208092002001-20240214-195808--cff16835-d39e-41ff-af2e-9f7aed03e018.jpg
 
-https://sirekap-obj-formc.kpu.go.id/f3bd/pemilu/ppwp/72/08/09/20/02/7208092002001-20240301-101050--baec0349-a985-4ed5-ba15-a0522b4de336.jpg
+https://sirekap-obj-formc.kpu.go.id/f3bd/pemilu/ppwp/72/08/09/20/02/7208092002001-20240314-150622--2e8563ef-cd82-4f23-8d76-22fbb9e20187.jpg
 
-https://sirekap-obj-formc.kpu.go.id/f3bd/pemilu/ppwp/72/08/09/20/02/7208092002001-20240301-101049--d5fe33c2-0834-497a-9aaf-715c7687817e.jpg
+https://sirekap-obj-formc.kpu.go.id/f3bd/pemilu/ppwp/72/08/09/20/02/7208092002001-20240314-150621--98841adb-f214-42dc-8ec4-7aacdcd1db18.jpg
 
 
 ## Metadata
 
 | Key        | Value               |
 | ---------- | ------------------- |
-| Time Stamp | 2024-03-01 11:00:00 |
+| Time Stamp | 2024-03-14 15:30:00 |
 
 
 ## DATA PEMILIH TETAP

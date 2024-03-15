@@ -4,6 +4,8 @@
 
 https://sirekap-obj-formc.kpu.go.id/5b37/pemilu/ppwp/72/02/06/20/22/7202062022004-20240216-092020--75d28127-99d3-4e1d-9c7d-8fc48b0e7afe.jpg
 
+https://sirekap-obj-formc.kpu.go.id/5b37/pemilu/ppwp/72/02/06/20/22/7202062022004-20240315-193749--4fbfa067-39ef-414a-936f-ecd1aefd6353.jpg
+
 https://sirekap-obj-formc.kpu.go.id/5b37/pemilu/ppwp/72/02/06/20/22/7202062022004-20240216-091958--9c39f3d7-c707-404f-9c71-4360eecd2064.jpg
 
 
@@ -11,7 +13,7 @@ https://sirekap-obj-formc.kpu.go.id/5b37/pemilu/ppwp/72/02/06/20/22/720206202200
 
 | Key        | Value               |
 | ---------- | ------------------- |
-| Time Stamp | 2024-02-16 09:30:28 |
+| Time Stamp | 2024-03-15 20:00:00 |
 
 
 ## DATA PEMILIH TETAP

@@ -37,12 +37,14 @@ https://sirekap-obj-formc.kpu.go.id/c1cf/pemilu/ppwp/72/10/01/20/12/721001201200
 
 https://sirekap-obj-formc.kpu.go.id/c1cf/pemilu/ppwp/72/10/01/20/12/7210012012008-20240215-132930--eaa3eb89-0663-47ec-93fe-d5c2ab11d6a4.jpg
 
+https://sirekap-obj-formc.kpu.go.id/c1cf/pemilu/ppwp/72/10/01/20/12/7210012012008-20240314-152431--13ab839c-ff42-4902-9739-00f0f57a3393.jpg
+
 
 ## Metadata
 
 | Key        | Value               |
 | ---------- | ------------------- |
-| Time Stamp | 2024-02-26 16:00:00 |
+| Time Stamp | 2024-03-14 15:30:00 |
 
 
 
