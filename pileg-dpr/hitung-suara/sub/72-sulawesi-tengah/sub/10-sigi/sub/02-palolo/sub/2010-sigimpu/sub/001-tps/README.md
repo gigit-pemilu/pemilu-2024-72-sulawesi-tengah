@@ -2,7 +2,7 @@
 
 ## Foto C Plano
 
-https://sirekap-obj-formc.kpu.go.id/fd8b/pemilu/pdpr/72/10/02/20/10/7210022010001-20240214-230842--c279ee0e-1b8e-48e7-8a3b-339f39f62e09.jpg
+https://sirekap-obj-formc.kpu.go.id/fd8b/pemilu/pdpr/72/10/02/20/10/7210022010001-20240314-223953--03adf780-3086-4aa4-a9f8-3b93c4b1610c.jpg
 
 https://sirekap-obj-formc.kpu.go.id/fd8b/pemilu/pdpr/72/10/02/20/10/7210022010001-20240214-231151--d0993d32-55fe-4e4c-9e8d-ac207f905203.jpg
 
@@ -34,7 +34,7 @@ https://sirekap-obj-formc.kpu.go.id/fd8b/pemilu/pdpr/72/10/02/20/10/721002201000
 
 https://sirekap-obj-formc.kpu.go.id/fd8b/pemilu/pdpr/72/10/02/20/10/7210022010001-20240215-065317--f52efea8-6d65-42bf-9abb-e22d031e662d.jpg
 
-https://sirekap-obj-formc.kpu.go.id/fd8b/pemilu/pdpr/72/10/02/20/10/7210022010001-20240215-142928--2bea7c1b-f117-49b4-8735-7140f24dd424.jpg
+https://sirekap-obj-formc.kpu.go.id/fd8b/pemilu/pdpr/72/10/02/20/10/7210022010001-20240314-225136--78333d9e-8a34-4409-9eb9-bd06999fd3f3.jpg
 
 https://sirekap-obj-formc.kpu.go.id/fd8b/pemilu/pdpr/72/10/02/20/10/7210022010001-20240215-065607--47a973eb-fd32-4c11-8d4e-24cb0aa174d2.jpg
 
@@ -47,7 +47,7 @@ https://sirekap-obj-formc.kpu.go.id/fd8b/pemilu/pdpr/72/10/02/20/10/721002201000
 
 | Key        | Value               |
 | ---------- | ------------------- |
-| Time Stamp | 2024-02-17 13:05:41 |
+| Time Stamp | 2024-03-14 23:03:47 |
 | Kode Dapil | 7201                |
 
 
