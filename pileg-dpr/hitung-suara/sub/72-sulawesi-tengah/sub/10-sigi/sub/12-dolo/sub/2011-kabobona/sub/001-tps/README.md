@@ -6,7 +6,7 @@ https://sirekap-obj-formc.kpu.go.id/32bc/pemilu/pdpr/72/10/12/20/11/721012201100
 
 https://sirekap-obj-formc.kpu.go.id/32bc/pemilu/pdpr/72/10/12/20/11/7210122011001-20240303-172122--32e73c2f-13ee-4646-bdc7-8413234d74ab.jpg
 
-https://sirekap-obj-formc.kpu.go.id/32bc/pemilu/pdpr/72/10/12/20/11/7210122011001-20240303-172132--c9fa6c35-2b34-403e-ad7c-42e6a886ac0f.jpg
+https://sirekap-obj-formc.kpu.go.id/32bc/pemilu/pdpr/72/10/12/20/11/7210122011001-20240317-104042--73f4d1d1-a728-4181-a884-fb556cba0bfc.jpg
 
 https://sirekap-obj-formc.kpu.go.id/32bc/pemilu/pdpr/72/10/12/20/11/7210122011001-20240303-172204--8bcc390c-244f-4401-bbd6-f75e4e105563.jpg
 
@@ -47,7 +47,7 @@ https://sirekap-obj-formc.kpu.go.id/32bc/pemilu/pdpr/72/10/12/20/11/721012201100
 
 | Key        | Value               |
 | ---------- | ------------------- |
-| Time Stamp | 2024-03-03 18:03:46 |
+| Time Stamp | 2024-03-17 11:03:48 |
 | Kode Dapil | 7201                |
 
 
